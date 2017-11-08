@@ -1,0 +1,24 @@
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\obj\Debug\UnitConverter.FormMain.resources
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\obj\Debug\UnitConverter.Resources.resources
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\obj\Debug\UnitConverter.vbproj.GenerateResource.Cache
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\bin\Debug\UnitConverter.exe.config
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\bin\Debug\UnitConverter.exe
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\bin\Debug\UnitConverter.pdb
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\bin\Debug\UnitConverter.xml
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\obj\Debug\UnitConverter.exe
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\obj\Debug\UnitConverter.xml
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\obj\Debug\UnitConverter.pdb
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter\bin\Debug\UnitConverter.exe.config
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter\obj\Debug\UnitConverter.exe
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter\obj\Debug\UnitConverter.xml
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter\obj\Debug\UnitConverter.pdb
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter\bin\Debug\UnitConverter.exe
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter\bin\Debug\UnitConverter.pdb
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter\bin\Debug\UnitConverter.xml
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter\obj\Debug\UnitConverter.FormMain.resources
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter\obj\Debug\UnitConverter.Resources.resources
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter\obj\Debug\UnitConverter.vbproj.GenerateResource.Cache
+C:\Users\Justin\Documents\GitHub\portfolio\UnitConverter\UnitConverter\bin\Debug\UnitConverter.exe.config
+C:\Users\Justin\Documents\GitHub\portfolio\UnitConverter\UnitConverter\obj\Debug\UnitConverter.exe
+C:\Users\Justin\Documents\GitHub\portfolio\UnitConverter\UnitConverter\obj\Debug\UnitConverter.xml
+C:\Users\Justin\Documents\GitHub\portfolio\UnitConverter\UnitConverter\obj\Debug\UnitConverter.pdb

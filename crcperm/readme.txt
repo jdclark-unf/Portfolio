@@ -1,0 +1,1 @@
+Generates all possible CRC16-CCITT checksums for a string of three alphabetical characters.

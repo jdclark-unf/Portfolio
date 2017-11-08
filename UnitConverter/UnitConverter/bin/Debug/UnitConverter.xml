@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UnitConverter
+</name>
+</assembly>
+<members>
+<member name="T:UnitConverter.FormMain">
+	<summary>
+ Converts U.S. units of measurement to Metric and English equivalents
+ </summary>
+	<remarks></remarks>
+</member><member name="P:UnitConverter.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:UnitConverter.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:UnitConverter.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

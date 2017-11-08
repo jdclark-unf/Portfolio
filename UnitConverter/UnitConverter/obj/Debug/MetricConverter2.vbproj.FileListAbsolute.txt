@@ -1,0 +1,11 @@
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\bin\Debug\MetricConverter2.exe.config
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\obj\Debug\WindowsApplication1.FormMain.resources
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\obj\Debug\MetricConverter2.vbproj.GenerateResource.Cache
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\bin\Debug\MetricConverter2.exe
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\bin\Debug\MetricConverter2.pdb
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\bin\Debug\MetricConverter2.xml
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\obj\Debug\MetricConverter2.exe
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\obj\Debug\MetricConverter2.xml
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\obj\Debug\MetricConverter2.pdb
+C:\Users\Justin\Documents\Visual Studio 2012\Projects\MetricConverter2\MetricConverter2\bin\Debug\UnitConverter.exe.config
