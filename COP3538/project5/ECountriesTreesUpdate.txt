@@ -1,0 +1,14 @@
+D,Germany
+D,Switzerland
+D,Italy
+D,Russia
+A,FFF
+A,II
+D,Russia
+A,GF
+D,Sweden
+A,Denmark
+A,Israel
+A,Ireland
+D,Belarus
+D,Ecuador
