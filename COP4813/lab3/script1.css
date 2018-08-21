@@ -1,0 +1,16 @@
+table {
+	border: 1px solid #000;
+	background-color: #000;
+}
+
+td {
+	border: 1px solid #000;
+	background-color: #fff;
+	padding: 5px;
+	text-align: center;
+}
+
+caption {
+	font-weight: bold;
+	padding-bottom: 5px;
+}

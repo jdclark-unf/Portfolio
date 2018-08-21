@@ -1,0 +1,33 @@
+table {
+	border-top: 2px solid #f9b074;
+	border-bottom: 2px solid #f9b074;
+	border-left: 1px solid #f9b074;
+	border-right: 1px solid #f9b074;
+	border-spacing: 0px;
+}
+
+th {
+	color: white;
+	background-color: #f79646;
+}
+
+th, td {
+	border-left: 1px solid #f9b074;
+	border-right: 1px solid #f9b074;
+	padding: 5px;
+	text-align: center;
+}
+
+.even {
+	background-color: #fde4d0;
+}
+
+.root {
+	font-weight: bold;
+}
+
+strong {
+	font-weight: bold;
+	color: #f00;
+}
+
