@@ -30,6 +30,7 @@ int main(void)
 
    fp = fopen("out.txt", "w+");
 
+   /* Loop through ASCII characters A-Z and a-z */
    for (letter1 = 65; letter1 < 123; letter1++)
    {
       if (letter1 > 90 && letter1 < 97)
